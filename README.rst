@@ -6,6 +6,6 @@ Containers
 ~~~~~~~~~~
 * **gateway**: Entrypoint to the lab environment.
 * **platform**: A highly optimized Python scientific stack.
-  - **lab**: Includes additional packages useful in interactive experimentation.
+   - **lab**: Includes additional packages useful in interactive experimentation.
 
 
